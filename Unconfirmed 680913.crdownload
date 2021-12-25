@@ -1,0 +1,23 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[ ]:
+
+
+num=int(input("enter a number"))
+if num > 0:
+        print(num, "positive")
+else:
+    print(num, "negative")
+
+
+# In[ ]:
+
+
+num=int(input("enter a number"))
+
+if num > 0:
+    print(num, "positive")
+else:
+    print(num, "negative")
+
